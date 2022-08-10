@@ -15,8 +15,8 @@ body{
     position: fixed;
     top: 0;
     left: 0;
-    overflow-y: scroll;
-    overflow-x: scroll;
+    overflow-y: auto;
+    overflow-x: auto;
 }
 
 button{
@@ -74,7 +74,7 @@ button:hover{
 
 h1{
     margin: auto;
-    margin-top: 2.8vh;
+    margin-top: 2.8px;
 }
 
 .main{
