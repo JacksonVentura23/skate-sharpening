@@ -106,7 +106,21 @@ h1{
     height: auto;
     min-width: none;
     min-height: none;
+    position: relative;
+    left: 50px;
 }
+
+.venmo {
+    max-width: 46%;
+    height: auto;
+    min-width: none;
+    min-height: none;
+    position: relative;
+    left: 100px;
+    top: -55px;
+}
+
+
 
 
 
