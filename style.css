@@ -46,6 +46,7 @@ button:hover{
     padding: 10px;
     border-radius: 10px;
     margin: 0 20px;
+    min-width: 150px;
 }
 
 #date{
@@ -91,7 +92,7 @@ h1{
     padding: 5px;
     padding-top: 0px;
     width: 50%;
-    min-width: 600px;
+    min-width: 300px;
     text-align: center;
     border-radius: 10px;
     font-size: 30px;
