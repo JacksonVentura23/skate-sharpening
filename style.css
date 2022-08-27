@@ -38,6 +38,10 @@ button:hover{
     color: beige;
 }
 
+h3 {
+    text-align: center;
+}
+
 
 .top{
     background-color: rgba(0,0,0,0.5);
@@ -94,7 +98,7 @@ h1{
     padding-top: 0px;
     width: 50%;
     min-width: 300px;
-    text-align: center;
+    text-align: left;
     border-radius: 10px;
     font-size: 30px;
 }
@@ -113,30 +117,30 @@ h1{
 }
 
 .venmo {
-    max-width: 46%;
+    max-width: 39%;
     height: auto;
     min-width: none;
     min-height: none;
     position: relative;
-    left: 100px;
+    left: 130px;
     top: -55px;
 }
 
 .p {
-    margin-left: -250px;
+    margin-left: 0px;
     font-weight: 700;
 }
 
 .pa {
-    margin-left: 130px;
+    margin-left: 30px;
 }
 
 .par {
-    margin-left: 155px;
+    margin-left: 30px;
 }
 
 .para {
-    margin-left: 160px;
+    margin-left: 30px;
 }
 
 
