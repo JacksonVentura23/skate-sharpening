@@ -122,9 +122,22 @@ h1{
     top: -55px;
 }
 
+.p {
+    margin-left: -250px;
+    font-weight: 700;
+}
 
+.pa {
+    margin-left: 130px;
+}
 
+.par {
+    margin-left: 155px;
+}
 
+.para {
+    margin-left: 160px;
+}
 
 
 
